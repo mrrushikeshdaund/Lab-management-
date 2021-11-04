@@ -1,0 +1,4 @@
+
+119,Rushikesh Daund,Computer Science & Engg,Thrid Year,A,rushikesh.daund@daund.com,7276743062,Aurangabad
+
+101,rushikesh,Comp engg,3,A,rushi@gmail.com,9637795036,Aurangabad
